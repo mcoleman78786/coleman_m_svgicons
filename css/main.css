@@ -1,0 +1,19 @@
+@charset "UTF-8"
+/*CSS Document*/
+
+.hidden
+{
+	display: none
+}
+
+.image-wrapper
+{
+	display: inline-block;
+	width: 45%;
+}
+
+img
+{
+	width: 100%;
+	display: block;
+}
