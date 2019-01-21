@@ -1,19 +1,13 @@
-@charset "UTF-8"
-/*CSS Document*/
-
-.hidden
-{
-	display: none
-}
-
-.image-wrapper
-{
+.image-wrapper{
 	display: inline-block;
 	width: 45%;
 }
 
-img
-{
+img {
 	width: 100%;
 	display: block;
 }
+
+.st0{opacity: 0.27;}
+
+.st1{fill:#36DB0E ;}
